@@ -1,5 +1,4 @@
-__Server__
----
+# __Server__
 ```java
 
 import java.io.*;
@@ -46,8 +45,7 @@ public class server {
 
 ```
 
-__Client__
----
+# __Client__
 ```java
 
 import java.io.*;
